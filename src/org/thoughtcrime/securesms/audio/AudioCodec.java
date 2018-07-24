@@ -6,8 +6,11 @@ import android.media.AudioRecord;
 import android.media.MediaCodec;
 import android.media.MediaCodecInfo;
 import android.media.MediaFormat;
+import android.media.MediaMuxer;
 import android.media.MediaRecorder;
 import android.os.Build;
+import android.os.ParcelFileDescriptor;
+
 import org.thoughtcrime.securesms.logging.Log;
 
 import org.thoughtcrime.securesms.util.Util;

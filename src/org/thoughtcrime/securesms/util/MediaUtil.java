@@ -41,7 +41,7 @@ public class MediaUtil {
   public static final String IMAGE_PNG         = "image/png";
   public static final String IMAGE_JPEG        = "image/jpeg";
   public static final String IMAGE_GIF         = "image/gif";
-  public static final String AUDIO_AAC         = "audio/aac";
+  public static final String AUDIO_AAC         = "audio/m4a";
   public static final String AUDIO_UNSPECIFIED = "audio/*";
   public static final String VIDEO_UNSPECIFIED = "video/*";
   public static final String VCARD             = "text/x-vcard";
